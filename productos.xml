@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="productos.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<tienda>
+    <productos>
+        <producto id="001" disponibilidad="en stock" imagen="https://mitienda.com/img/televisor.jpg">
+            <nombre>Televisor</nombre>
+            <descripcion></descripcion>
+            <precio>500.00</precio>
+            <categoria>Electrónica</categoria>
+        </producto> 
+        <producto id="002" disponibilidad="agotado" imagen="https://mitienda.com/img/computadora.jpg">
+            <nombre>Computadora</nombre>
+            <descripcion></descripcion>
+            <precio>1000.00</precio>
+            <categoria>Electrónica</categoria>
+        </producto> 
+        <producto id="003" disponibilidad="en stock" imagen="https://mitienda.com/img/telefono.jpg">
+            <nombre>Telefono</nombre>
+            <descripcion></descripcion>
+            <precio>340.00</precio>
+            <categoria>Electrónica</categoria>
+        </producto> 
+        <producto id="004" disponibilidad="en stock" imagen="https://mitienda.com/img/cama.jpg">
+            <nombre>Cama</nombre>
+            <descripcion></descripcion>
+            <precio>800.00</precio>
+            <categoria>Hogar</categoria>
+        </producto>
+        <producto id="005" disponibilidad="agotado" imagen="https://mitienda.com/img/silla.jpg">
+            <nombre>Silla</nombre>
+            <descripcion></descripcion>
+            <precio>150.00</precio>
+            <categoria>Hogar</categoria>
+        </producto>
+        <producto id="006" disponibilidad="en stock" imagen="https://mitienda.com/img/mesa.jpg">
+            <nombre>Mesa</nombre>
+            <descripcion></descripcion>
+            <precio>399.99</precio>
+            <categoria>Hogar</categoria>
+        </producto>
+        <producto id="007" disponibilidad="en stock" imagen="https://mitienda.com/img/camisa.jpg">
+            <nombre>Camisa</nombre>
+            <descripcion></descripcion>
+            <precio>50.00</precio>
+            <categoria>Ropa</categoria>
+        </producto>
+        <producto id="008" disponibilidad="agotado" imagen="https://mitienda.com/img/pantalon.jpg">
+            <nombre>Pantalón</nombre>
+            <descripcion></descripcion>
+            <precio>70.00</precio>
+            <categoria>Ropa</categoria>
+        </producto>
+        <producto id="009" disponibilidad="en stock" imagen="https://mitienda.com/img/zapatos.jpg">
+            <nombre>Zapatos</nombre>
+            <descripcion></descripcion>
+            <precio>120.00</precio>
+            <categoria>Ropa</categoria>
+        </producto>
+        <producto id="010" disponibilidad="en stock" imagen="https://mitienda.com/img/gafas.jpg">
+            <nombre>Gafas</nombre>
+            <descripcion></descripcion>
+            <precio>80.00</precio>
+            <categoria>Accesorios</categoria>
+        </producto>
+        <producto id="011" disponibilidad="en stock" imagen="https://mitienda.com/img/cartera.jpg">
+            <nombre>Cartera</nombre>
+            <descripcion></descripcion>
+            <precio>20.90</precio>
+            <categoria>Accesorios</categoria>
+        </producto>
+        <producto id="012" disponibilidad="agotado" imagen="https://mitienda.com/img/reloj.jpg">
+            <nombre>Reloj</nombre>
+            <descripcion></descripcion>
+            <precio>150.00</precio>
+            <categoria>Accesorios</categoria>
+        </producto>
+        <producto id="013" disponibilidad="en stock" imagen="https://mitienda.com/img/jarron.jpg">
+            <nombre>Jarrón</nombre>
+            <descripcion></descripcion>
+            <precio>60.50</precio>
+            <categoria>Hogar</categoria>
+        </producto>
+        <producto id="014" disponibilidad="en stock" imagen="https://mitienda.com/img/cesta.jpg">
+            <nombre>Cesta</nombre>
+            <descripcion></descripcion>
+            <precio>16.00</precio>
+            <categoria>Hogar</categoria>
+        </producto>        
+        <producto id="015" disponibilidad="en stock" imagen="https://mitienda.com/img/cuadro.jpg">
+            <nombre>Cuadro</nombre>
+            <descripcion></descripcion>
+            <precio>45.00</precio>
+            <categoria>Hogar</categoria>
+        </producto>
+    </productos>
+</tienda>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="usuarios.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<usuarios>
+    <usuario id="001">
+        <nombre>Pablo</nombre>
+        <apellidos>Azogue Castaño</apellidos>
+        <email>pabloazogue@gmail.com</email> 
+        <telefono>694 413 630</telefono>
+        <direccion>Calle practicante joaquin vazquez matito 6</direccion>
+        <codigoPostal>41500</codigoPostal>
+        <nombreUsuario>pabloazogue</nombreUsuario>
+        <contrasena>pabloaz23</contrasena>
+        <fechaNacimiento>1999-10-23</fechaNacimiento>
+    </usuario>
+    <usuario id="002">
+        <nombre>Juan</nombre>
+        <apellidos>Sanchez Sanchez</apellidos>
+        <email>sanchezJuan@gmail.com</email> 
+        <telefono>657 789 654</telefono>
+        <direccion>Calle marquez 56</direccion>
+        <codigoPostal>42456</codigoPostal>
+        <nombreUsuario>SanJuan</nombreUsuario>
+        <contrasena>JJJSSS456</contrasena>
+        <fechaNacimiento>2005-06-30</fechaNacimiento>
+    </usuario>
+    <usuario id="003">
+        <nombre>Maria</nombre>
+        <apellidos>Garcia Lopez</apellidos>
+        <email>maria.garcia@hotmail.com</email> 
+        <telefono>611 222 333</telefono>
+        <direccion>Avenida de la Constitucion 12</direccion>
+        <codigoPostal>41004</codigoPostal>
+        <nombreUsuario>mariag</nombreUsuario>
+        <contrasena>Maria_GL#23</contrasena>
+        <fechaNacimiento>1985-04-12</fechaNacimiento>
+    </usuario>
+    <usuario id="004">
+        <nombre>Carlos</nombre>
+        <apellidos>Ruiz Zafon</apellidos>
+        <email>cruiz@yahoo.es</email> 
+        <telefono>722 555 888</telefono>
+        <direccion>Plaza Mayor 1 Puerta 2</direccion>
+        <codigoPostal>28012</codigoPostal>
+        <nombreUsuario>carlosrz</nombreUsuario>
+        <contrasena>C.Ruiz1970</contrasena>
+        <fechaNacimiento>1970-11-02</fechaNacimiento>
+    </usuario>
+    <usuario id="005">
+        <nombre>Laura</nombre>
+        <apellidos>Martinez Jimenez</apellidos>
+        <email>lauramj@empresa.com</email> 
+        <telefono>600 111 222</telefono>
+        <direccion>Paseo del Prado 45</direccion>
+        <codigoPostal>28014</codigoPostal>
+        <nombreUsuario>lmartinez</nombreUsuario>
+        <contrasena>lauramar45</contrasena>
+        <fechaNacimiento>1992-09-15</fechaNacimiento>
+    </usuario>    
+</usuarios>
