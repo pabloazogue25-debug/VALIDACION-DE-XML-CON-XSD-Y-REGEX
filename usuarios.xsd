@@ -30,14 +30,14 @@
                             <xs:element name="telefono">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
-                                        <xs:pattern value="[0-9]{3}[\s][0-9]{3}[\s][0-9]{3}"></xs:pattern>
+                                        <xs:pattern value="([0-9]{3}[\s][0-9]{3}[\s][0-9]{3})?([0-9]{9})?"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>
                             <xs:element name="direccion">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
-                                        <xs:pattern value="[A-Za-zÁÉÍÓÚáéíóúñÑ\s0-9,.-]+"></xs:pattern>
+                                        <xs:pattern value="[A-Za-zÁÉÍÓÚáéíóúñÑ\s0-9,.-]+"/>
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>
